@@ -1,0 +1,10 @@
+{
+    "name": "jp.co.pcysl5edgo.unrolledlinkedlist",
+    "displayName": "Unsafe Unrolled Linked List",
+    "version": "0.1.0",
+    "unity": "2019.2",
+    "description": "This package provides unsafe struct which implements Unrolled Linked List.",
+    "keywords": [],
+    "category": "Controllers",
+    "dependencies": {}
+}
